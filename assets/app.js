@@ -55,6 +55,8 @@ const onTodoSubmit = () => {
     insertItem(todoItem);
     itemList.push(todoItem);
     isTodoEmpty();
+    todoInput.value = "";
+    todoInput.focus();
 };
 
 // Another way to initialize a function
