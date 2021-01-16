@@ -1,0 +1,5 @@
+- Trello: https://trello.com
+- Github
+- Git
+- Netlify: https://www.netlify.com/
+- Coolors: https://coolors.co/
